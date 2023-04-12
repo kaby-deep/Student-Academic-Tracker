@@ -1,6 +1,6 @@
 # Student-Academic-Tracker
 
-                 ***********************ABSTRACT***********************
+                          ***********************ABSTRACT***********************
                  
 With the covid period shunning us to our homes, schools and colleges have resorted 
 to online modes of teaching. But most of them have not yet updated the record maintenance 
